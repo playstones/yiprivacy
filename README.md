@@ -1,10 +1,3 @@
----
-layout: post
-title: "Privacy Policy of Translator"
-date: 2017-06-05 10:00:56 +0800
-comments: true
-categories: 
----
 
 #Privacy Policy of Translator
 
