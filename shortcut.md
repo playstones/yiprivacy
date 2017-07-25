@@ -1,0 +1,1 @@
+# Change translate shortcut
